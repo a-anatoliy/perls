@@ -1,0 +1,19 @@
+Changes
+MANIFEST
+Makefile.PL
+README
+spec_002.txt
+lib/Cinema/Library.pm
+lib/Cinema/Prompt.pm
+lib/Cinema/Storage.pm
+lib/Cinema/Utils.pm
+bin/movie_storage.pl
+bin/sample_movies.txt
+t/00-load.t
+t/01-storage.t
+t/02-library.t
+t/03-prompt.t
+t/manifest.t
+t/pod-coverage.t
+t/pod.t
+META.yml                                 Module meta-data (added by MakeMaker)

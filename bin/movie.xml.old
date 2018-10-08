@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+  <item>
+    <release_year>1974</release_year>
+    <stars>
+      <name>Mel Brooks!!!!!</name>
+      <name>Clevon Little</name>
+      <name>Harvey Korman</name>
+      <name>Gene Wilder</name>
+      <name>Slim Pickens</name>
+      <name>Madeline Kahn</name>
+    </stars>
+    <format>VHS</format>
+    <id>1</id>
+    <title>Blazing Saddles</title>
+  </item>
+  <item>
+    <release_year>1942</release_year>
+    <stars>
+      <name>Humphrey Bogart</name>
+      <name>Ingrid Bergman</name>
+      <name>Claude Rains</name>
+      <name>Peter Lorre</name>
+    </stars>
+    <format>DVD</format>
+    <id>2</id>
+    <title>Casablanca</title>
+  </item>
+  <item>
+    <release_year>1953</release_year>
+    <stars>
+      <name>Audrey Hepburn</name>
+      <name>Cary Grant</name>
+      <name>Walter Matthau</name>
+      <name>James Coburn</name>
+      <name>George Kennedy</name>
+    </stars>
+    <format>DVD</format>
+    <id>3</id>
+    <title>Charade</title>
+  </item>
+  <item>
+    <release_year>1967</release_year>
+    <stars>
+      <name>Paul Newman</name>
+      <name>George Kennedy</name>
+      <name>Strother Martin</name>
+    </stars>
+    <format>VHS</format>
+    <id>4</id>
+    <title>Cool Hand Luke</title>
+  </item>
+  <item>
+    <release_year>1969</release_year>
+    <stars>
+      <name>Paul Newman</name>
+      <name>Robert Redford</name>
+      <name>Katherine Ross</name>
+    </stars>
+    <format>VHS</format>
+    <id>5</id>
+    <title>Butch Cassidy and the Sundance Kid</title>
+  </item>
+  <item>
+    <release_year>1973</release_year>
+    <stars>
+      <name>Robert Redford</name>
+      <name>Paul Newman</name>
+      <name>Robert Shaw</name>
+      <name>Charles Durning</name>
+    </stars>
+    <format>DVD</format>
+    <id>6</id>
+    <title>The Sting</title>
+  </item>
+  <item>
+    <release_year>1979</release_year>
+    <stars>
+      <name>Jim Henson</name>
+      <name>Frank Oz</name>
+      <name>Dave Geolz</name>
+      <name>Mel Brooks</name>
+      <name>James Coburn</name>
+      <name>Charles Durning</name>
+      <name>Austin Pendleton</name>
+    </stars>
+    <format>DVD</format>
+    <id>7</id>
+    <title>The Muppet Movie</title>
+  </item>
+  <item>
+    <release_year>1995</release_year>
+    <stars>
+      <name>John Travolta</name>
+      <name>Danny DeVito</name>
+      <name>Renne Russo</name>
+      <name>Gene Hackman</name>
+      <name>Dennis Farina</name>
+    </stars>
+    <format>DVD</format>
+    <id>8</id>
+    <title>Get Shorty</title>
+  </item>
+  <item>
+    <release_year>1992</release_year>
+    <stars>
+      <name>Joe Pesci</name>
+      <name>Marrisa Tomei</name>
+      <name>Fred Gwynne</name>
+      <name>Austin Pendleton</name>
+      <name>Lane Smith</name>
+      <name>Ralph Macchio</name>
+    </stars>
+    <format>DVD</format>
+    <id>9</id>
+    <title>My Cousin Vinny</title>
+  </item>
+  <item>
+    <release_year>2000</release_year>
+    <stars>
+      <name>Russell Crowe</name>
+      <name>Joaquin Phoenix</name>
+      <name>Connie Nielson</name>
+    </stars>
+    <format>Blu-Ray</format>
+    <id>10</id>
+    <title>Gladiator</title>
+  </item>
+  <item>
+    <release_year>1977</release_year>
+    <stars>
+      <name>Harrison Ford</name>
+      <name>Mark Hamill</name>
+      <name>Carrie Fisher</name>
+      <name>Alec Guinness</name>
+      <name>James Earl Jones</name>
+    </stars>
+    <format>Blu-Ray</format>
+    <id>11</id>
+    <title>Star Wars</title>
+  </item>
+  <item>
+    <release_year>1981</release_year>
+    <stars>
+      <name>Harrison Ford</name>
+      <name>Karen Allen</name>
+    </stars>
+    <format>DVD</format>
+    <id>12</id>
+    <title>Raiders of the Lost Ark</title>
+  </item>
+  <item>
+    <release_year>2005</release_year>
+    <stars>
+      <name>Nathan Fillion</name>
+      <name>Alan Tudyk</name>
+      <name>Adam Baldwin</name>
+      <name>Ron Glass</name>
+      <name>Jewel Staite</name>
+      <name>Gina Torres</name>
+      <name>Morena Baccarin</name>
+      <name>Sean Maher</name>
+      <name>Summer Glau</name>
+      <name>Chiwetel Ejiofor</name>
+    </stars>
+    <format>Blu-Ray</format>
+    <id>13</id>
+    <title>Serenity</title>
+  </item>
+  <item>
+    <release_year>1986</release_year>
+    <stars>
+      <name>Gene Hackman</name>
+      <name>Barbara Hershey</name>
+      <name>Dennis Hopper</name>
+    </stars>
+    <format>VHS</format>
+    <id>14</id>
+    <title>Hooisers</title>
+  </item>
+  <item>
+    <release_year>1983</release_year>
+    <stars>
+      <name>Matthew Broderick</name>
+      <name>Ally Sheedy</name>
+      <name>Dabney Coleman</name>
+      <name>John Wood</name>
+      <name>Barry Corbin</name>
+    </stars>
+    <format>VHS</format>
+    <id>15</id>
+    <title>WarGames</title>
+  </item>
+  <item>
+    <release_year>1987</release_year>
+    <stars>
+      <name>Bill Pullman</name>
+      <name>John Candy</name>
+      <name>Mel Brooks</name>
+      <name>Rick Moranis</name>
+      <name>Daphne Zuniga</name>
+      <name>Joan Rivers</name>
+    </stars>
+    <format>DVD</format>
+    <id>16</id>
+    <title>Spaceballs</title>
+  </item>
+  <item>
+    <release_year>1974</release_year>
+    <stars>
+      <name>Gene Wilder</name>
+      <name>Kenneth Mars</name>
+      <name>Terri Garr</name>
+      <name>Gene Hackman</name>
+      <name>Peter Boyle</name>
+    </stars>
+    <format>VHS</format>
+    <id>17</id>
+    <title>Young Frankenstein</title>
+  </item>
+  <item>
+    <release_year>1985</release_year>
+    <stars>
+      <name>Val Kilmer</name>
+      <name>Gabe Jarret</name>
+      <name>Michelle Meyrink</name>
+      <name>William Atherton</name>
+    </stars>
+    <format>VHS</format>
+    <id>18</id>
+    <title>Real Genius</title>
+  </item>
+  <item>
+    <release_year>1986</release_year>
+    <stars>
+      <name>Tom Cruise</name>
+      <name>Kelly McGillis</name>
+      <name>Val Kilmer</name>
+      <name>Anthony Edwards</name>
+      <name>Tom Skerritt</name>
+    </stars>
+    <format>DVD</format>
+    <id>19</id>
+    <title>Top Gun</title>
+  </item>
+  <item>
+    <release_year>1970</release_year>
+    <stars>
+      <name>Donald Sutherland</name>
+      <name>Elliot Gould</name>
+      <name>Tom Skerritt</name>
+      <name>Sally Kellerman</name>
+      <name>Robert Duvall</name>
+    </stars>
+    <format>DVD</format>
+    <id>20</id>
+    <title>MASH</title>
+  </item>
+  <item>
+    <release_year>1966</release_year>
+    <stars>
+      <name>Carl Reiner</name>
+      <name>Eva Marie Saint</name>
+      <name>Alan Arkin</name>
+      <name>Brian Keith</name>
+    </stars>
+    <format>VHS</format>
+    <id>21</id>
+    <title>The Russians Are Coming, The Russians Are Coming</title>
+  </item>
+  <item>
+    <release_year>1975</release_year>
+    <stars>
+      <name>Roy Scheider</name>
+      <name>Robert Shaw</name>
+      <name>Richard Dreyfuss</name>
+      <name>Lorraine Gary </name>
+    </stars>
+    <format>DVD</format>
+    <id>22</id>
+    <title>Jaws</title>
+  </item>
+  <item>
+    <release_year>1968</release_year>
+    <stars>
+      <name>Keir Dullea</name>
+      <name>Gary Lockwood</name>
+      <name>William Sylvester</name>
+      <name>Douglas Rain</name>
+    </stars>
+    <format>DVD</format>
+    <id>23</id>
+    <title>2001: A Space Odyssey</title>
+  </item>
+  <item>
+    <release_year>1950</release_year>
+    <stars>
+      <name>James Stewart</name>
+      <name>Josephine Hull</name>
+      <name>Peggy Dow</name>
+      <name>Charles Drake</name>
+    </stars>
+    <format>DVD</format>
+    <id>24</id>
+    <title>Harvey</title>
+  </item>
+  <item>
+    <release_year>2007</release_year>
+    <stars>
+      <name>Seth Rogen</name>
+      <name>Katherine Heigl</name>
+      <name>Paul Rudd</name>
+      <name>Leslie Mann</name>
+    </stars>
+    <format>Blu-Ray</format>
+    <id>25</id>
+    <title>Knocked Up</title>
+  </item>
+</movie>

@@ -1,0 +1,323 @@
+Revision history for Cinema-Library
+
+
+2011-09-29 01:38  anatolii
+
+	* bin/movie_storage.pl: last change
+
+2011-09-28 21:15  anatolii
+
+	* lib/Cinema/: Library.pm, Prompt.pm, Storage.pm: Improving PODs
+
+2011-09-28 21:09  anatolii
+
+	* bin/movie_storage.pl: it can process new key --add
+
+2011-09-28 21:09  anatolii
+
+	* lib/Cinema/: Library.pm, Prompt.pm, Storage.pm: Massive change:
+	  - created an ability to add new movie's record via command line
+	  interface (processing arg --add)     - checking for the arguments
+	  when adding a new movie's record     - perltidy for the code
+
+2011-09-28 11:08  anatolii
+
+	* lib/Cinema/Utils.pm, lib/Cinema/Storage.pm,
+	  lib/Cinema/Library.pm, bin/movie_storage.pl: massive changes
+
+2011-09-28 11:08  anatolii
+
+	* lib/Cinema/Prompt.pm: massive cnahges
+
+2011-09-28 11:06  anatolii
+
+	* t/: 01-storage.t, 02-library.t: renaming
+
+2011-09-28 11:06  anatolii
+
+	* t/03-prompt.t: test for Cinema::Prompt
+
+2011-09-28 10:51  anatolii
+
+	* t/: 02-library.t, 01-storage.t: change method names
+
+2011-09-27 19:54  anatolii
+
+	* lib/Cinema/Library.pm: add sub distpatch
+
+2011-09-27 19:53  anatolii
+
+	* lib/Cinema/Storage.pm: add sub dispatch - to manage user actions
+
+2011-09-27 19:52  anatolii
+
+	* bin/movie_storage.pl: renamed args for actions
+
+2011-09-27 19:52  anatolii
+
+	* lib/Cinema/Utils.pm: renamed sub _dumper to dumper
+
+2011-09-27 19:10  anatolii
+
+	* lib/Cinema/Storage.pm: Changed subroutine get_ids_objs; added
+	  subroutine select_all_by; removed subroutines select_all_by_year,
+	  select_all_by_title
+
+2011-09-27 19:05  anatolii
+
+	* t/: 01-storage.t, 02-library.t: * Removed use feature (some
+	  system cane have old Perl version)
+
+2011-09-27 19:05  anatolii
+
+	* lib/Cinema/: Library.pm, Prompt.pm, Storage.pm, Utils.pm: *
+	  Removed use feature (some system cane have old Perl version) *
+	  Added subroutine say
+
+2011-09-26 10:53  anatolii
+
+	* lib/Cinema/: Library.pm, Prompt.pm, Storage.pm: Add some
+	  description info into the modules
+
+2011-09-26 10:52  anatolii
+
+	* README: Remove extra stuff
+
+2011-09-26 10:35  anatolii
+
+	* Changes, Makefile.PL: Add file mask for the targe 'clean' to
+	  remove *.tar.gz
+
+2011-09-26 10:15  anatolii
+
+	* Makefile.PL: Changed directive to clean dir
+
+2011-09-26 10:07  anatolii
+
+	* t/01-storage.t: - remove file sample_movies.txt - change test
+	  file 01-storage.t
+
+2011-09-26 10:07  anatolii
+
+	* sample_movies.txt: remove file sample_movies.txt
+
+2011-09-26 10:02  anatolii
+
+	* MANIFEST: MANIFEST
+
+2011-09-26 10:02  anatolii
+
+	* bin/movie_storage.pl: add lib path
+
+2011-09-26 09:58  anatolii
+
+	* bin/movie_storage.pl: changed name of cmd line argument
+
+2011-09-26 09:47  anatolii
+
+	* bin/: movie.db, movie_storage.PL, sample_movies.txt: Added
+	  sample_movies.txt (initial text db file), movie.db (test db)
+
+2011-09-26 02:49  anatolii
+
+	* MANIFEST: added several files
+
+2011-09-26 02:23  anatolii
+
+	* Makefile.PL: add script, text db and storable db
+
+2011-09-26 02:09  anatolii
+
+	* lib/Cinema/: Library.pm, Prompt.pm, Storage.pm, Utils.pm: Last
+	  working copies
+
+2011-09-26 01:53  anatolii
+
+	* bin/: movie_storage.PL, movie_storage.pl: added movie_storage.PL
+
+2011-09-25 23:52  anatolii
+
+	* lib/Cinema/Utils.pm: current working copy
+
+2011-09-25 23:51  anatolii
+
+	* lib/Cinema/Prompt.pm: Cinema::Prompt is completed (class View)
+
+2011-09-25 23:51  anatolii
+
+	* lib/Cinema/Library.pm: Cinema::Library is completed (class
+	  Controller)
+
+2011-09-25 23:51  anatolii
+
+	* lib/Cinema/Storage.pm: Cinema::Storage completed (Model class)
+
+2011-09-25 23:50  anatolii
+
+	* t/02-library.t: added several tests
+
+2011-09-25 23:40  anatolii
+
+	* t/: 01-library.t, 01-storage.t, 02-library.t, 02-storage.t:
+	  Renamed t-files
+
+2011-09-25 23:18  anatolii
+
+	* sample_movies.txt: Added sample_movies.txt - flat text movie db
+
+2011-09-25 23:16  anatolii
+
+	* db/sample_movies.txt: remove test file
+
+2011-09-25 22:57  anatolii
+
+	* t/02-storage.t: tests for Cinema::Storage
+
+2011-09-25 19:11  anatolii
+
+	* lib/Cinema/Storage.pm: Cinema::Storage is model class
+
+2011-09-25 18:20  anatolii
+
+	* MANIFEST: Update MANIFEST
+
+2011-09-25 18:20  anatolii
+
+	* t/: 01-library.t, 01-object.t: Renamed 01-object.t to
+	  01-library.t
+
+2011-09-25 12:36  anatolii
+
+	* MANIFEST: Updated MANIFEST
+
+2011-09-25 12:34  anatolii
+
+	* lib/Cinema/: Library.pm, Prompt.pm: using Cinema::Utils
+
+2011-09-25 12:34  anatolii
+
+	* lib/Cinema/Utils.pm: Cinema::Utils - couple of functions to share
+	  them for libs
+
+2011-09-25 12:09  anatolii
+
+	* bin/movie_storage.pl: command line args processed by
+	  GetOpts::Long
+
+2011-09-25 12:09  anatolii
+
+	* lib/Cinema/Prompt.pm: changed sub print_data
+
+2011-09-25 12:08  anatolii
+
+	* lib/Cinema/Library.pm: overload "" for Cinema::Library object
+
+2011-09-25 00:54  anatolii
+
+	* bin/movie_storage.pl, lib/Cinema/Prompt.pm,
+	  lib/Cinema/Library.pm: working copy
+
+2011-09-24 18:50  anatolii
+
+	* Makefile.PL: Makefile.PL is used by make
+
+2011-09-24 18:49  anatolii
+
+	* bin/movie_storage.pl: working copy of the script
+
+2011-09-24 18:48  anatolii
+
+	* t/00-load.t: small fixes
+
+2011-09-24 18:47  anatolii
+
+	* t/01-object.t: Cinema::Library object simple test
+
+2011-09-24 18:29  anatolii
+
+	* lib/Cinema/Library.pm: fixed POD typos
+
+2011-09-24 18:29  anatolii
+
+	* lib/Cinema/Prompt.pm: fixed POS typos
+
+2011-09-24 14:33  anatolii
+
+	* MANIFEST: New files have been added
+
+2011-09-24 14:32  anatolii
+
+	* lib/Cinema/Library.pm: added several methods to search data by
+	  title, star name
+
+2011-09-24 14:31  anatolii
+
+	* lib/Cinema/Prompt.pm: Cinema::Prompt library to compose user
+	  input menu
+
+2011-09-24 14:30  anatolii
+
+	* bin/movie_storage.pl: working copy
+
+2011-09-24 11:40  anatolii
+
+	* db/sample_movies.txt: sample flat db
+
+2011-09-24 11:32  anatolii
+
+	* MANIFEST: added new file to MANIFEST
+
+2011-09-24 02:01  anatolii
+
+	* bin/movie_storage.pl: working copy
+
+2011-09-24 02:01  anatolii
+
+	* lib/Cinema/Library.pm: added functionality for methods:
+	  get_list_by_year, get_list_by_title
+
+2011-09-24 00:55  anatolii
+
+	* bin/movie_storage.pl: current change
+
+2011-09-24 00:54  anatolii
+
+	* lib/Cinema/Library.pm: several changes - couple of methods and
+	  helper functions
+
+2011-09-23 21:45  anatolii
+
+	* lib/Cinema/Library.pm: Change substitution modes
+
+2011-09-23 21:38  anatolii
+
+	* lib/Cinema/Library.pm: Added: generic accessor/mutators for
+	  fields; several methods to work with Movie DB
+
+2011-09-23 20:37  anatolii
+
+	* bin/movie_storage.pl: added simple Perl-script to deal with
+	  Cinema::Library\
+
+2011-09-23 20:32  anatolii
+
+	* ignore.txt: Added directory for a script to test Cinema::Library
+	  module
+
+2011-09-23 20:30  anatolii
+
+	* lib/Cinema/Library.pm: added: use fields; simple constructor
+
+2011-09-23 20:09  anatolii
+
+	* Changes, MANIFEST, Makefile.PL, README, ignore.txt,
+	  lib/Cinema/Library.pm, t/00-load.t, t/boilerplate.t,
+	  t/manifest.t, t/pod-coverage.t, t/pod.t: *** New Perl module
+	  Cinema::Library ***
+
+2011-09-23 20:09  anatolii
+
+	* Changes, MANIFEST, Makefile.PL, README, ignore.txt,
+	  lib/Cinema/Library.pm, t/00-load.t, t/boilerplate.t,
+	  t/manifest.t, t/pod-coverage.t, t/pod.t: Initial revision
+

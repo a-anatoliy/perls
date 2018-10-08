@@ -1,0 +1,318 @@
+[
+   {
+      "release_year" : "1974",
+      "stars" : [
+         "Mel Brooks!!!!!",
+         "Clevon Little",
+         "Harvey Korman",
+         "Gene Wilder",
+         "Slim Pickens",
+         "Madeline Kahn"
+      ],
+      "format" : "VHS",
+      "id" : 1,
+      "title" : "Blazing Saddles"
+   },
+   {
+      "release_year" : "1942",
+      "stars" : [
+         "Humphrey Bogart",
+         "Ingrid Bergman",
+         "Claude Rains",
+         "Peter Lorre"
+      ],
+      "format" : "DVD",
+      "id" : 2,
+      "title" : "Casablanca"
+   },
+   {
+      "release_year" : "1953",
+      "stars" : [
+         "Audrey Hepburn",
+         "Cary Grant",
+         "Walter Matthau",
+         "James Coburn",
+         "George Kennedy"
+      ],
+      "format" : "DVD",
+      "id" : 3,
+      "title" : "Charade"
+   },
+   {
+      "release_year" : "1967",
+      "stars" : [
+         "Paul Newman",
+         "George Kennedy",
+         "Strother Martin"
+      ],
+      "format" : "VHS",
+      "id" : 4,
+      "title" : "Cool Hand Luke"
+   },
+   {
+      "release_year" : "1969",
+      "stars" : [
+         "Paul Newman",
+         "Robert Redford",
+         "Katherine Ross"
+      ],
+      "format" : "VHS",
+      "id" : 5,
+      "title" : "Butch Cassidy and the Sundance Kid"
+   },
+   {
+      "release_year" : "1973",
+      "stars" : [
+         "Robert Redford",
+         "Paul Newman",
+         "Robert Shaw",
+         "Charles Durning"
+      ],
+      "format" : "DVD",
+      "id" : 6,
+      "title" : "The Sting"
+   },
+   {
+      "release_year" : "1979",
+      "stars" : [
+         "Jim Henson",
+         "Frank Oz",
+         "Dave Geolz",
+         "Mel Brooks",
+         "James Coburn",
+         "Charles Durning",
+         "Austin Pendleton"
+      ],
+      "format" : "DVD",
+      "id" : 7,
+      "title" : "The Muppet Movie"
+   },
+   {
+      "release_year" : "1995",
+      "stars" : [
+         "John Travolta",
+         "Danny DeVito",
+         "Renne Russo",
+         "Gene Hackman",
+         "Dennis Farina"
+      ],
+      "format" : "DVD",
+      "id" : 8,
+      "title" : "Get Shorty"
+   },
+   {
+      "release_year" : "1992",
+      "stars" : [
+         "Joe Pesci",
+         "Marrisa Tomei",
+         "Fred Gwynne",
+         "Austin Pendleton",
+         "Lane Smith",
+         "Ralph Macchio"
+      ],
+      "format" : "DVD",
+      "id" : 9,
+      "title" : "My Cousin Vinny"
+   },
+   {
+      "release_year" : "2000",
+      "stars" : [
+         "Russell Crowe",
+         "Joaquin Phoenix",
+         "Connie Nielson"
+      ],
+      "format" : "Blu-Ray",
+      "id" : 10,
+      "title" : "Gladiator"
+   },
+   {
+      "release_year" : "1977",
+      "stars" : [
+         "Harrison Ford",
+         "Mark Hamill",
+         "Carrie Fisher",
+         "Alec Guinness",
+         "James Earl Jones"
+      ],
+      "format" : "Blu-Ray",
+      "id" : 11,
+      "title" : "Star Wars"
+   },
+   {
+      "release_year" : "1981",
+      "stars" : [
+         "Harrison Ford",
+         "Karen Allen"
+      ],
+      "format" : "DVD",
+      "id" : 12,
+      "title" : "Raiders of the Lost Ark"
+   },
+   {
+      "release_year" : "2005",
+      "stars" : [
+         "Nathan Fillion",
+         "Alan Tudyk",
+         "Adam Baldwin",
+         "Ron Glass",
+         "Jewel Staite",
+         "Gina Torres",
+         "Morena Baccarin",
+         "Sean Maher",
+         "Summer Glau",
+         "Chiwetel Ejiofor"
+      ],
+      "format" : "Blu-Ray",
+      "id" : 13,
+      "title" : "Serenity"
+   },
+   {
+      "release_year" : "1986",
+      "stars" : [
+         "Gene Hackman",
+         "Barbara Hershey",
+         "Dennis Hopper"
+      ],
+      "format" : "VHS",
+      "id" : 14,
+      "title" : "Hooisers"
+   },
+   {
+      "release_year" : "1983",
+      "stars" : [
+         "Matthew Broderick",
+         "Ally Sheedy",
+         "Dabney Coleman",
+         "John Wood",
+         "Barry Corbin"
+      ],
+      "format" : "VHS",
+      "id" : 15,
+      "title" : "WarGames"
+   },
+   {
+      "release_year" : "1987",
+      "stars" : [
+         "Bill Pullman",
+         "John Candy",
+         "Mel Brooks",
+         "Rick Moranis",
+         "Daphne Zuniga",
+         "Joan Rivers"
+      ],
+      "format" : "DVD",
+      "id" : 16,
+      "title" : "Spaceballs"
+   },
+   {
+      "release_year" : "1974",
+      "stars" : [
+         "Gene Wilder",
+         "Kenneth Mars",
+         "Terri Garr",
+         "Gene Hackman",
+         "Peter Boyle"
+      ],
+      "format" : "VHS",
+      "id" : 17,
+      "title" : "Young Frankenstein"
+   },
+   {
+      "release_year" : "1985",
+      "stars" : [
+         "Val Kilmer",
+         "Gabe Jarret",
+         "Michelle Meyrink",
+         "William Atherton"
+      ],
+      "format" : "VHS",
+      "id" : 18,
+      "title" : "Real Genius"
+   },
+   {
+      "release_year" : "1986",
+      "stars" : [
+         "Tom Cruise",
+         "Kelly McGillis",
+         "Val Kilmer",
+         "Anthony Edwards",
+         "Tom Skerritt"
+      ],
+      "format" : "DVD",
+      "id" : 19,
+      "title" : "Top Gun"
+   },
+   {
+      "release_year" : "1970",
+      "stars" : [
+         "Donald Sutherland",
+         "Elliot Gould",
+         "Tom Skerritt",
+         "Sally Kellerman",
+         "Robert Duvall"
+      ],
+      "format" : "DVD",
+      "id" : 20,
+      "title" : "MASH"
+   },
+   {
+      "release_year" : "1966",
+      "stars" : [
+         "Carl Reiner",
+         "Eva Marie Saint",
+         "Alan Arkin",
+         "Brian Keith"
+      ],
+      "format" : "VHS",
+      "id" : 21,
+      "title" : "The Russians Are Coming, The Russians Are Coming"
+   },
+   {
+      "release_year" : "1975",
+      "stars" : [
+         "Roy Scheider",
+         "Robert Shaw",
+         "Richard Dreyfuss",
+         "Lorraine Gary "
+      ],
+      "format" : "DVD",
+      "id" : 22,
+      "title" : "Jaws"
+   },
+   {
+      "release_year" : "1968",
+      "stars" : [
+         "Keir Dullea",
+         "Gary Lockwood",
+         "William Sylvester",
+         "Douglas Rain"
+      ],
+      "format" : "DVD",
+      "id" : 23,
+      "title" : "2001: A Space Odyssey"
+   },
+   {
+      "release_year" : "1950",
+      "stars" : [
+         "James Stewart",
+         "Josephine Hull",
+         "Peggy Dow",
+         "Charles Drake"
+      ],
+      "format" : "DVD",
+      "id" : 24,
+      "title" : "Harvey"
+   },
+   {
+      "release_year" : "2007",
+      "stars" : [
+         "Seth Rogen",
+         "Katherine Heigl",
+         "Paul Rudd",
+         "Leslie Mann"
+      ],
+      "format" : "Blu-Ray",
+      "id" : 25,
+      "title" : "Knocked Up"
+   }
+]
