@@ -2,11 +2,11 @@
 
 
 The Movie DB software allow an user to manage own movie's catalogue:
-    * add a new record about favorite movie
-    * view current record by ID
-    * search movie by title or movie star's name
-    * delete a record
-    * import a data from flat text files
+	* add a new record about favorite movie
+	* view current record by ID
+	* search movie by title or movie star's name
+	* delete a record
+	* import a data from flat text files
 
 
 INSTALLATION
