@@ -1,0 +1,24 @@
+<VirtualHost *:80>
+	ServerName %NAME_OF_PROJECT%
+	ServerAlias %NAME_OF_PROJECT%.com
+	ServerAdmin %PROJECT_POSTMASTER%
+	DocumentRoot %WORK_DIR%/www
+	<Directory %WORK_DIR%/www/>
+			Options Indexes FollowSymLinks MultiViews
+			AllowOverride All
+			Order allow,deny
+			allow from all
+	</Directory>
+
+	ScriptAlias /cgi-bin/ %WORK_DIR%/cgi-bin/
+	<Directory "%WORK_DIR%/cgi-bin">
+			AllowOverride All
+			Options +ExecCGI -MultiViews +SymLinksIfOwnerMatch
+			Order allow,deny
+			Allow from all
+	</Directory>
+
+	ErrorLog %WORK_DIR%/logs/error.log
+	LogLevel warn
+	CustomLog %WORK_DIR%/logs/access.log combined
+</VirtualHost>
