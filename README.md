@@ -1,2 +1,2 @@
-# v_host
-an draft of scripts to automate the creating of apache virtual hosts.
+#### v_host
+Draft of scripts to automate the creation of apache virtual hosts.
